@@ -1,0 +1,1 @@
+print("Hello, World! Irena Gjorgijeva Hausaufgabe am 24.01.2024 Jenkins")
