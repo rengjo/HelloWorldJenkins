@@ -1,1 +1,1 @@
-print("Hello, World! Irena Gjorgijeva Hausaufgabe am 25.01.2024 Jenkins")
+print("Hello, World! Irena Gjorgijeva Hausaufgabe am 09.02.2024 Jenkins mit WSL und Python")
